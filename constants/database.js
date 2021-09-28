@@ -1,0 +1,1 @@
+export const URL_API = 'https://apppanaderia-96b22-default-rtdb.firebaseio.com/';
